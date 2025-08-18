@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="summary"></block>
+  <block id="f201e5097d4e2c5f71ab71a8b93ff55d" category="doc">NetApp 솔루션에 대해 알아보세요</block>
+  <block id="9b31511089be494faae33ad7f00fabe9" category="paragraph">NetApp 솔루션은 다양한 IT 과제를 해결하도록 맞춤화된 포괄적인 리소스 모음을 제공합니다.  각 솔루션은 NetApp 기술을 귀사의 비즈니스에 가장 중요한 방식으로 활용할 수 있도록 돕는 적절한 콘텐츠와 도구를 제공합니다.</block>
+  <block id="09a9afb592d76b3f4644a15a2e861412" category="paragraph">솔루션은 기술 도메인별로 구성됩니다.</block>
+  <block id="ea4c55be196897a16d86999f5c16d582" category="section-title">가상화</block>
+  <block id="bf27cfc661b87e6ce6d578e4217f23de" category="paragraph">주요 가상화 플랫폼과 NetApp 통합을 활용하세요.  환경 전반에 걸쳐 관리를 간소화하고, 리소스 효율성을 높이고, 성능을 최적화하세요.</block>
+  <block id="be1861ba3b21ec358912cffd6f779099" category="inline-link-macro">가상화 솔루션 보기</block>
+  <block id="f48d892ecfc982fad84c689f554b9b29" category="paragraph"><block ref="6cd4a912c8ba8eee17f28fac7342dbf3" category="inline-link-macro-rx"></block> .</block>
+  <block id="16a059b6054d3de2e47b692120e5b0e5" category="section-title">인공지능(AI)</block>
+  <block id="543603f38314a61dbbf88ecd981a842f" category="paragraph">NetApp의 AI 솔루션으로 머신 러닝과 딥 러닝 워크플로를 가속화하세요.  NetApp 스토리지를 인기 있는 AI 프레임워크와 통합하고, 데이터 파이프라인을 최적화하고, AI 워크로드를 효율적으로 배포하는 방법을 알아보세요.</block>
+  <block id="18eb754c24c4cc0337442d7fa2e00844" category="inline-link-macro">AI 솔루션 보기</block>
+  <block id="cbf1a99a619fb43501ade21975c58636" category="paragraph"><block ref="07a64784b50dbd18e7c80ec7c020efb0" category="inline-link-macro-rx"></block> .</block>
+  <block id="f87c0f3bcae62c197a838cbfe37abd7c" category="section-title">퍼블릭 및 하이브리드 클라우드</block>
+  <block id="eb5a4cbccc3ced9ca3139eb5d922a231" category="paragraph">퍼블릭, 프라이빗, 하이브리드 클라우드 인프라 전반에 걸쳐 NetApp 솔루션을 원활하게 배포하고 관리하세요.  일관된 운영과 민첩한 데이터 이동성을 지원하기 위해 주요 클라우드 공급업체와의 통합을 살펴보세요.</block>
+  <block id="f3a084c7088b4eb8a6e25cb9a842d5cc" category="inline-link-macro">클라우드 솔루션 보기</block>
+  <block id="2c0a92fc52958e51e4ea858fd584bb47" category="paragraph"><block ref="34f209942f2ecfaf9c0cfbfaf756da20" category="inline-link-macro-rx"></block> .</block>
+  <block id="ea2ef9b0d095bf991f4973633b485340" category="section-title">데이터베이스</block>
+  <block id="ed7ebe90c4d10fa1a92994d27aa2ff82" category="paragraph">Oracle 및 SQL Server와 같은 엔터프라이즈 데이터베이스의 스토리지와 성능을 최적화합니다.  임무 수행에 중요한 워크로드에 대한 안정적인 지원을 보장하기 위해 백업, 복구 및 튜닝에 대한 모범 사례를 살펴보세요.</block>
+  <block id="599b5cbb24decd4ff75da2b98eeee1b1" category="inline-link-macro">데이터베이스 솔루션 보기</block>
+  <block id="7186265899a962ac90bce5907b82b6ca" category="paragraph"><block ref="b4767f977fd28b90ffd90d51aa7acdf5" category="inline-link-macro-rx"></block> .</block>
+  <block id="e340bc103d02ce2b8e016eb60705029c" category="section-title">SAP와 SAP HANA</block>
+  <block id="1820162ef653c14e82f6acc02d44eb65" category="paragraph">검증된 설계, 성능 최적화 기술, 데이터 보호 전략을 살펴보고 운영을 간소화하고 SAP 투자의 가치를 극대화하세요.</block>
+  <block id="bc721cb0466c80976a72e91a3ef8d070" category="inline-link-macro">SAP 솔루션 보기</block>
+  <block id="1fab45ec716ef4884f6a046a119280c5" category="paragraph"><block ref="300f9f9cbbca2bef7c5dcc12aa2c169a" category="inline-link-macro-rx"></block> .</block>
+  <block id="5382aaf8b3d2fdeb6717f9805b0dd511" category="section-title">컨테이너</block>
+  <block id="511881d2aa4d9e17cedf9da814132557" category="paragraph">NetApp 의 영구 스토리지 및 데이터 관리 솔루션으로 컨테이너화된 애플리케이션을 지원하세요.  확장성과 복원력을 강화하기 위한 오케스트레이션 플랫폼과의 통합 전략을 알아보세요.</block>
+  <block id="648c19f818c9b58a14b71f1b72dc000f" category="inline-link-macro">컨테이너 솔루션 보기</block>
+  <block id="6b8d7506a2d85ad0de1d0dc740ef5e2e" category="paragraph"><block ref="8c3572dcfd8f7885a27868c89e77b17f" category="inline-link-macro-rx"></block> .</block>
+  <block id="198010d8bf8a3ff0f084ffd059a9a1da" category="section-title">데이터 관리</block>
+  <block id="157588fb0fdd5962e733abadfeb56548" category="paragraph">고성능 데이터 솔루션으로 Splunk 및 Apache Spark와 같은 대규모 분석 플랫폼을 지원합니다.  NetApp 복잡한 분석 환경에서 데이터 무결성을 유지하고 성능을 최적화하는 데 어떻게 도움이 되는지 알아보세요.</block>
+  <block id="84e46de9ebf60e3911a422585ee71bcb" category="inline-link-macro">데이터 관리 솔루션 보기</block>
+  <block id="33d6f12b993bc7bbf091e20a1490088d" category="paragraph"><block ref="c6fda0293932d36dfc35b04dc7619789" category="inline-link-macro-rx"></block> .</block>
+  <block id="322a66d37e3b05d26eaa6f7119ff6aed" category="sidebar">운영을 간소화하고, 클라우드 관리를 강화하고, 스토리지를 최적화하도록 설계된 NetApp 솔루션으로 IT 인프라를 혁신하세요.  관심 있는 분야별로 솔루션을 찾아보거나 검색 창을 사용하여 NetApp 솔루션의 어느 곳에서나 콘텐츠를 찾으세요.</block>
+  <block id="0726296d7ccce528b55d80b472d02cb2" category="sidebar">NetApp 솔루션</block>
+  <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">모두</block>
+  <block id="caea8340e2d186a540518d08602aa065" category="sidebar">오토메이션</block>
+  <block id="21a1e68164f738b8be1dae11d5a694b3" category="sidebar">데이터 보호</block>
+  <block id="407432c641358300c37673ae96305f3a" category="sidebar">데브옵스</block>
+  <block id="b0dae11b82e63781abdc8f893c41b3c0" category="sidebar">엔터프라이즈 애플리케이션</block>
+  <block id="520b661a272c9e6f55f469cc9c24193d" category="sidebar">고가용성</block>
+  <block id="35084d885dea7b061e6894c1cf3036d9" category="sidebar">작업 부하</block>
+  <block id="d9fcf5d2b3cc023cfc23c2a2a6ea65b1" category="sidebar">NetApp 솔루션에 대해 알아보세요.</block>
+  <block id="dc6289f7398ceb74d3fd5a13a90dbca2" category="sidebar">가상화 솔루션</block>
+  <block id="5058cc7bdf69fdf26f0a05db1b7039f9" category="sidebar">가상화된 환경 전반에 민첩하고 안정적이며 효율적인 데이터 인프라를 제공하는 솔루션입니다.</block>
+  <block id="5baf6ec1129c513e42641878b72ed0d8" category="sidebar">인공지능 솔루션</block>
+  <block id="03a46eeb01a9e1b53eaf75cb0c7ab125" category="sidebar">성능, 생산성 및 데이터 보호를 강화하는 솔루션입니다.</block>
+  <block id="9e6382832ff8059fffd7334b52b46e6a" category="sidebar">퍼블릭 및 하이브리드 클라우드 솔루션</block>
+  <block id="9e35f920cd42f186b73bf65c117b486c" category="sidebar">온프레미스 및 멀티클라우드 환경에서 워크로드 이동성을 간소화하고, 엔터프라이즈급 성능을 제공하며, 데이터 관리를 통합하는 솔루션입니다.</block>
+  <block id="114dd74d303c1a7a0ca71b00760474ba" category="sidebar">데이터베이스 솔루션</block>
+  <block id="66ba66996d8c189914ae46e6211d3241" category="sidebar">주요 기업 데이터베이스에서 NetApp 스토리지의 잠재력을 최대한 활용할 수 있는 솔루션입니다.</block>
+  <block id="dd14f1e79d4fcd8bf6ff2fbbddfd2216" category="sidebar">SAP 및 SAP HANA 솔루션</block>
+  <block id="8d4fe53f7b0532b3d4e4d7dac1fcba87" category="sidebar">SAP 및 SAP HANA 환경의 성능과 효율성을 극대화하는 솔루션입니다.</block>
+  <block id="ae05797d002b77737a10ce3d62b7521d" category="sidebar">컨테이너 솔루션</block>
+  <block id="4932dd0c0fb7706ddbd089d6e39216eb" category="sidebar">검증된 배포와 NetApp 스토리지 관리 시스템 및 소프트웨어와의 원활한 통합을 통해 Kubernetes 환경을 단순화하고 확장하는 솔루션입니다.</block>
+  <block id="aeb11413825c35abdf36736cbaa541ef" category="sidebar">데이터 관리 솔루션</block>
+  <block id="c571e150d27b8578da48b93620fb3a66" category="sidebar">온프레미스와 클라우드 전반에서 스토리지 및 데이터 서비스를 관리하는 솔루션입니다.</block>
+</blocks>

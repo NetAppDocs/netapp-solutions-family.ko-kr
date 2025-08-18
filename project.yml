@@ -1,0 +1,15 @@
+---
+settings:
+  name: NetApp solutions
+  internal:
+    pdf_enabled: false
+    lipi_enabled: true
+  prod:
+    pdf_enabled: false
+    harmony_enabled: false
+    lipi_enabled: false
+  langs: ko-kr,us-en,de-de,es-es,fr-fr,it-it,pt-br,ja-jp,zh-cn,zh-tw
+sidebar:
+  entries:
+  - title: NetApp 솔루션
+    url: "/index.html"
