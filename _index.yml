@@ -29,37 +29,37 @@ product-family:
     tags: all
   - title: 가상화 솔루션
     icon: "./media/icon_virtualization_ieops-2280.png"
-    url: netapp-solutions-virtualization/
+    url: "../netapp-solutions-virtualization/index.html"
     summary: 가상화된 환경 전반에 민첩하고 안정적이며 효율적인 데이터 인프라를 제공하는 솔루션입니다.
     tags: all,automation,ha,workloads
   - title: 인공지능 솔루션
     icon: "./media/icon_artificial_intelligence_ieops-2282.png"
-    url: netapp-solutions-ai/
+    url: "../netapp-solutions-ai/index.html"
     summary: 성능, 생산성 및 데이터 보호를 강화하는 솔루션입니다.
     tags: all,automation,workloads
   - title: 퍼블릭 및 하이브리드 클라우드 솔루션
     icon: "./media/icon_public_hybrid_ieops-2281.png"
-    url: netapp-solutions-cloud/
+    url: "../netapp-solutions-cloud/index.html"
     summary: 온프레미스 및 멀티클라우드 환경에서 워크로드 이동성을 간소화하고, 엔터프라이즈급 성능을 제공하며, 데이터 관리를 통합하는 솔루션입니다.
     tags: all,ha,protection,workloads
   - title: 데이터베이스 솔루션
     icon: "./media/icon_databases_ieops-2283.png"
-    url: netapp-solutions-databases/
+    url: "../netapp-solutions-databases/index.html"
     summary: 주요 기업 데이터베이스에서 NetApp 스토리지의 잠재력을 최대한 활용할 수 있는 솔루션입니다.
     tags: all,entapps,ha,protection,workloads
   - title: SAP 및 SAP HANA 솔루션
     icon: "./media/icon_sap_hana_ieops-2285.png"
-    url: netapp-solutions-sap/
+    url: "../netapp-solutions-sap/index.html"
     summary: SAP 및 SAP HANA 환경의 성능과 효율성을 극대화하는 솔루션입니다.
     tags: all,entapps,ha,protection,workloads
   - title: 컨테이너 솔루션
     icon: "./media/icon_containers_ieops-2284.png"
-    url: netapp-solutions-containers/
+    url: "../netapp-solutions-containers/index.html"
     summary: 검증된 배포와 NetApp 스토리지 관리 시스템 및 소프트웨어와의 원활한 통합을 통해 Kubernetes 환경을 단순화하고
       확장하는 솔루션입니다.
     tags: all,automation,devops,workloads
   - title: 데이터 관리 솔루션
     icon: "./media/icon_analytics_ieops-2283.png"
-    url: netapp-solutions-dataops/
+    url: "../netapp-solutions-dataops/index.html"
     summary: 온프레미스와 클라우드 전반에서 스토리지 및 데이터 서비스를 관리하는 솔루션입니다.
     tags: all,automation,protection,workloads
