@@ -63,3 +63,8 @@ product-family:
     url: "../netapp-solutions-dataops/index.html"
     summary: 온프레미스와 클라우드 전반에서 스토리지 및 데이터 서비스를 관리하는 솔루션입니다.
     tags: all,automation,protection,workloads
+  - title: 데모 및 블로그
+    icon: "./media/icon_blogs_demos-2286_v3.png"
+    url: blogs-display.html
+    summary: 다양한 NetAp 솔루션에 대한 기술 데모 및 블로그 모음을 검토해 보세요.
+    tags: all,automation,protection,workloads
