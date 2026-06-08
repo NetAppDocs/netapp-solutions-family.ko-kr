@@ -25,6 +25,12 @@ keywords: netapp, solutions, blogs
 | *범주* | *블로그 제목* 
 
 
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/MCP-vs-Agent-Skills-What-are-the-differences-and-why-do-they-matter-for-NetApp/ba-p/467508["MCP와 에이전트 스킬 - 차이점은 무엇이며, NetApp에 왜 중요한가요?"] 
+
+
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-cache-offloading-with-vLLM-LMCache-and-ONTAP-pNFS/ba-p/467414["vLLM, LMCache 및 ONTAP pNFS를 사용한 KV 캐시 오프로딩"] 
+
+
 | AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-CacheBlend-What-is-it-and-why-it-matters/ba-p/463949["KV CacheBlend - 정의 및 중요성"] 
 
 
@@ -127,13 +133,13 @@ keywords: netapp, solutions, blogs
 | 하이브리드 클라우드 | link:https://bluexp.netapp.com/blog/aws-fsxn-blg-migrate-vmware-to-amazon-ec2-iscsi-based-fsx-for-ontap["Amazon EC2 및 Amazon FSx for NetApp ONTAP iSCSI 프로토콜을 사용하여 VMware VM을 AWS로 마이그레이션합니다"] 
 
 
-| 하이브리드 클라우드 | link:https://cloud.netapp.com/blog/azure-blg-optimize-storage-for-cloud-based-vmware-deployments["클라우드 기반 VMware 배포를 위한 스토리지 최적화"] 
+| 하이브리드 클라우드 | link:https://www.netapp.com/blog/vmware-optimize-storage-workloads/["모든 클라우드에서 스토리지 및 데이터 집약적인 VMware 워크로드 최적화"] 
 
 
-| 하이브리드 클라우드 | link:https://cloud.netapp.com/blog/azure-blg-netapp-cloud-offerings-with-azure-vmware-solution["NetApp 기반 클라우드 서비스를 사용하여 Azure VMware Solution을 시작해 보세요"] 
+| 하이브리드 클라우드 | link:https://www.netapp.com/blog/vmware-simplify-workloads-azure/["Azure NetApp Files - Azure에서 VMware 워크로드 간소화"] 
 
 
-| 하이브리드 클라우드 | link:https://cloud.netapp.com/blog/aws-fsxo-blg-configure-hybrid-cloud-with-fsx-for-netapp-ontap-and-vmware-cloud-on-aws-sddc-using-vmware-hcx["VMware HCX를 사용하여 FSx ONTAP 및 VMware Cloud on AWS SDDC로 하이브리드 클라우드 구성"] 
+| 하이브리드 클라우드 | link:https://www.netapp.com/blog/aws-fsxo-blg-configure-hybrid-cloud-with-fsx-for-netapp-ontap-and-vmware-cloud-on-aws-sddc-using-vmware-hcx/["VMware HCX를 사용하여 FSx for NetApp ONTAP 및 AWS SDDC의 VMware Cloud로 하이브리드 클라우드 구성"] 
 
 
 | 하이브리드 클라우드 | link:https://www.netapp.com/blog/cloud-volumes-service-google-cloud-vmware-engine/["Google Cloud NetApp Volumes 데이터스토어는 Google Cloud VMware Engine(NetApp)을 지원합니다"] 
@@ -146,6 +152,18 @@ keywords: netapp, solutions, blogs
 
 
 | 하이브리드 클라우드 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Observability-for-the-Modern-Datacenter-with-NetApp-Cloud-Insights/ba-p/447495["NetApp Cloud Insights를 통한 최신 데이터 센터의 관찰성"] 
+
+
+| 데이터베이스 | link:https://www.netapp.com/blog/reduce-data-movement-polybase-fsx-ontap/["SQL Server 2025 PolyBase 및 Amazon FSx for NetApp ONTAP S3 액세스 포인트를 사용하여 데이터 이동 비용 절감"] 
+
+
+| 데이터베이스 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Cutting-Data-Movement-Costs-with-SQL-Server-2025-PolyBase-and-FSx-for-ONTAP-S3/ba-p/466075["SQL Server 2025 PolyBase 및 Amazon FSx for NetApp ONTAP S3 액세스 포인트를 사용하여 데이터 이동 비용 절감(기술 심층 분석)"] 
+
+
+| 데이터베이스 | link:https://www.netapp.com/blog/sql-server-always-on-fci-fsx-ontap/["FSx for NetApp ONTAP SnapMirror와 함께 SQL Server Always On FCI 활용"] 
+
+
+| 데이터베이스 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Data-Protection-SQL-Server-Always-On-FCIs-with-FSx-for-NetApp-ONTAP-and/ba-p/461025["FSx for NetApp ONTAP 및 SnapMirror를 사용한 SQL Server Always On FCI 데이터 보호"] 
 
 
 | 데이터베이스 | link:https://aws.amazon.com/blogs/storage/using-netapp-snapcenter-with-amazon-fsx-for-netapp-ontap-to-protect-your-sql-server-workloads/["Amazon FSx ONTAP과 함께 NetApp SnapCenter를 사용하여 SQL Server 워크로드 보호"] 
@@ -200,6 +218,12 @@ keywords: netapp, solutions, blogs
 | *범주* | *블로그 제목* 
 
 
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/MCP-vs-Agent-Skills-What-are-the-differences-and-why-do-they-matter-for-NetApp/ba-p/467508["MCP와 에이전트 스킬 - 차이점은 무엇이며, NetApp에 왜 중요한가요?"] 
+
+
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-cache-offloading-with-vLLM-LMCache-and-ONTAP-pNFS/ba-p/467414["vLLM, LMCache 및 ONTAP pNFS를 사용한 KV 캐시 오프로딩"] 
+
+
 | AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-CacheBlend-What-is-it-and-why-it-matters/ba-p/463949["KV CacheBlend - 정의 및 중요성"] 
 
 
@@ -246,13 +270,13 @@ keywords: netapp, solutions, blogs
 | 하이브리드 클라우드 | link:https://bluexp.netapp.com/blog/aws-fsxn-blg-migrate-vmware-to-amazon-ec2-iscsi-based-fsx-for-ontap["Amazon EC2 및 Amazon FSx for NetApp ONTAP iSCSI 프로토콜을 사용하여 VMware VM을 AWS로 마이그레이션합니다"] 
 
 
-| 하이브리드 클라우드 | link:https://cloud.netapp.com/blog/azure-blg-optimize-storage-for-cloud-based-vmware-deployments["클라우드 기반 VMware 배포를 위한 스토리지 최적화"] 
+| 하이브리드 클라우드 | link:https://www.netapp.com/blog/vmware-optimize-storage-workloads/["모든 클라우드에서 스토리지 및 데이터 집약적인 VMware 워크로드 최적화"] 
 
 
-| 하이브리드 클라우드 | link:https://cloud.netapp.com/blog/azure-blg-netapp-cloud-offerings-with-azure-vmware-solution["NetApp 기반 클라우드 서비스를 사용하여 Azure VMware Solution을 시작해 보세요"] 
+| 하이브리드 클라우드 | link:https://www.netapp.com/blog/vmware-simplify-workloads-azure/["Azure NetApp Files - Azure에서 VMware 워크로드 간소화"] 
 
 
-| 하이브리드 클라우드 | link:https://cloud.netapp.com/blog/aws-fsxo-blg-configure-hybrid-cloud-with-fsx-for-netapp-ontap-and-vmware-cloud-on-aws-sddc-using-vmware-hcx["VMware HCX를 사용하여 FSx ONTAP 및 VMware Cloud on AWS SDDC로 하이브리드 클라우드 구성"] 
+| 하이브리드 클라우드 | link:https://www.netapp.com/blog/aws-fsxo-blg-configure-hybrid-cloud-with-fsx-for-netapp-ontap-and-vmware-cloud-on-aws-sddc-using-vmware-hcx/["VMware HCX를 사용하여 FSx for NetApp ONTAP 및 AWS SDDC의 VMware Cloud로 하이브리드 클라우드 구성"] 
 
 
 | 하이브리드 클라우드 | link:https://www.netapp.com/blog/cloud-volumes-service-google-cloud-vmware-engine/["Google Cloud NetApp Volumes 데이터스토어는 Google Cloud VMware Engine(NetApp)을 지원합니다"] 
@@ -377,6 +401,18 @@ keywords: netapp, solutions, blogs
 [cols="20%, 80%"]
 |===
 | *범주* | *블로그 제목* 
+
+
+| 데이터베이스 | link:https://www.netapp.com/blog/reduce-data-movement-polybase-fsx-ontap/["SQL Server 2025 PolyBase 및 Amazon FSx for NetApp ONTAP S3 액세스 포인트를 사용하여 데이터 이동 비용 절감"] 
+
+
+| 데이터베이스 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Cutting-Data-Movement-Costs-with-SQL-Server-2025-PolyBase-and-FSx-for-ONTAP-S3/ba-p/466075["SQL Server 2025 PolyBase 및 Amazon FSx for NetApp ONTAP S3 액세스 포인트를 사용하여 데이터 이동 비용 절감(기술 심층 분석)"] 
+
+
+| 데이터베이스 | link:https://www.netapp.com/blog/sql-server-always-on-fci-fsx-ontap/["FSx for NetApp ONTAP SnapMirror와 함께 SQL Server Always On FCI 활용"] 
+
+
+| 데이터베이스 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Data-Protection-SQL-Server-Always-On-FCIs-with-FSx-for-NetApp-ONTAP-and/ba-p/461025["FSx for NetApp ONTAP 및 SnapMirror를 사용한 SQL Server Always On FCI 데이터 보호"] 
 
 
 | 데이터베이스 | link:https://aws.amazon.com/blogs/storage/using-netapp-snapcenter-with-amazon-fsx-for-netapp-ontap-to-protect-your-sql-server-workloads/["Amazon FSx ONTAP과 함께 NetApp SnapCenter를 사용하여 SQL Server 워크로드 보호"] 
