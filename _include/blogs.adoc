@@ -7,6 +7,9 @@
 | *범주* | *블로그 제목* 
 
 
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-cache-offloading-tuning-for-long-context/ba-p/467594["긴 컨텍스트에 대한 KV 캐시 오프로딩 튜닝"] 
+
+
 | AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/NetApp-Starburst-Designing-a-Data-Lakehouse-for-AI-at-scale/ba-p/467569["NetApp + Starburst: 대규모 AI를 위한 데이터 레이크하우스 설계"] 
 
 
