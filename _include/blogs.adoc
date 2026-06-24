@@ -7,6 +7,9 @@
 | *범주* | *블로그 제목* 
 
 
+| 데이터 플랫폼 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Architecting-an-Enterprise-Backup-and-Disaster-Recovery-for-Cloudera-with-NetApp/ba-p/467801["NetApp을 활용한 Cloudera용 엔터프라이즈 백업 및 재해 복구 아키텍처 설계"] 
+
+
 | AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-cache-offloading-tuning-for-long-context/ba-p/467594["긴 컨텍스트에 대한 KV 캐시 오프로딩 튜닝"] 
 
 
