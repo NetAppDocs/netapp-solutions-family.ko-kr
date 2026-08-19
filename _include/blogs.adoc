@@ -7,6 +7,9 @@
 | *범주* | *블로그 제목* 
 
 
+| AI | link:https://community.netapp.com/community/discussion/468325/comparing-kv-cache-offloading-frameworks-for-vllm["vLLM용 KV 캐시 오프로딩 프레임워크 비교"] 
+
+
 | 데이터 플랫폼 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Architecting-an-Enterprise-Backup-and-Disaster-Recovery-for-Cloudera-with-NetApp/ba-p/467801["NetApp을 활용한 Cloudera용 엔터프라이즈 백업 및 재해 복구 아키텍처 설계"] 
 
 
@@ -85,7 +88,7 @@
 | 가상화 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/NetApp-and-VMware-Better-than-ever/ba-p/445780["NetApp과 VMware – 그 어느 때보다 강력해졌습니다"] 
 
 
-| AI | link:++https://www.netapp.com/blog/#t=Blogs&sort=%40publish_date_mktg%20descending&layout=card&f:@facet_language_mktg=["영어"]&f:@facet_soultion_mktg=[AI,Analytics,artificial-intelligence]++[NetApp.com의 AI 블로그] 
+| AI | link:https://www.netapp.com/blog/#q=AI&t=Blogs&sort=%40publish_date_mktg%20descending&layout=card&f:@language=English["NetApp.com의 AI 블로그"] 
 
 
 | AI | link:https://netapp.io/category/ai-ml/["thePub의 AI 블로그"] 
