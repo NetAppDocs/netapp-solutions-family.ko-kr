@@ -25,6 +25,9 @@ keywords: netapp, solutions, blogs
 | *범주* | *블로그 제목* 
 
 
+| AI | link:https://community.netapp.com/community/discussion/468506/netapp-onehouse-unifying-data-from-bi-to-ai-across-datacenters-hyperscalers-and-neoclouds["NetApp OneHouse: 데이터센터, 하이퍼스케일러 및 NeoClouds 전반에서 BI부터 AI까지 데이터 통합"] 
+
+
 | AI | link:https://community.netapp.com/community/discussion/468325/comparing-kv-cache-offloading-frameworks-for-vllm["vLLM용 KV 캐시 오프로딩 프레임워크 비교"] 
 
 
@@ -228,6 +231,9 @@ keywords: netapp, solutions, blogs
 [cols="20%, 80%"]
 |===
 | *범주* | *블로그 제목* 
+
+
+| AI | link:https://community.netapp.com/community/discussion/468506/netapp-onehouse-unifying-data-from-bi-to-ai-across-datacenters-hyperscalers-and-neoclouds["NetApp OneHouse: 데이터센터, 하이퍼스케일러 및 NeoClouds 전반에서 BI부터 AI까지 데이터 통합"] 
 
 
 | AI | link:https://community.netapp.com/community/discussion/468325/comparing-kv-cache-offloading-frameworks-for-vllm["vLLM용 KV 캐시 오프로딩 프레임워크 비교"] 
